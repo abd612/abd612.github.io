@@ -3515,7 +3515,7 @@ input[type="button"].btn--primary:focus {
     margin-right: auto;
     margin-left: auto;
     padding-bottom: var(--vspace-1);
-    max-width: 800px;
+    max-width: 960px;
     position: relative;
 }
 
